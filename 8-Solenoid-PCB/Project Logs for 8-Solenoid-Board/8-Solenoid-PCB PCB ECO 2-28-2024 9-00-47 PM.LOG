@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Sensor_Vcc Pin=J21-1
+Removed Pin From Net: NetName=Arduino_GND Pin=J21-2
+Added Pin To Net: NetName=Sensor_Vcc Pin=J7-1
+Added Pin To Net: NetName=Sensor_Vcc Pin=J12-1
+Change Net Name : Old Net Name=Sensor_Vcc New Net Name=Arduino_Vcc

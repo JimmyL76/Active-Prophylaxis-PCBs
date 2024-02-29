@@ -85,6 +85,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIFNPLGY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 8-Solenoid-Board\Design Rule Check - 8-Solenoid-PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
