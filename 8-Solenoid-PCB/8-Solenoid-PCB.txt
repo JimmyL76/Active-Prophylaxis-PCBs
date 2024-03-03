@@ -1,0 +1,28 @@
+Board Information Report
+Filename     : C:\Users\pisto\OneDrive - The University of Texas at Austin\00 - UT Austin\Orgs\Momentum\Altium\8-Solenoid-PCB\8-Solenoid-PCB.PcbDoc
+Date         : 3/2/2024
+Time         : 8:26:03 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 165mmx124mm
+    Components on board, 52
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 16, 0
+    0.762mm, 8, 0
+    1.1mm, 88, 0
+    4.5mm, 4, 0
+count : 4
+
+Pad Solder Mask, Count
+    0mm, 16
+    0.1016mm, 100
+count : 2
+
+Via Solder Mask, Count
+count : 0

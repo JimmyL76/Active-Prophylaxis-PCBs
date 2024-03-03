@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\pisto\OneDrive - The University of Texas at Austin\00 - UT Austin\Orgs\Momentum\Altium\8-Solenoid-PCB\Project Outputs for 8-Solenoid-Board\Pick Place for 8-Solenoid-PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/03/24
+Time:       23:36
+Revision:   a43cab54461ee75330739030e8f35901ae960f5d
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J23","282836-2","TopLayer","TECO-282836-2_V","101.8543","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J20","282836-2","TopLayer","TECO-282836-2_V","10.3358","102.7500","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J16","282836-2","TopLayer","TECO-282836-2_V","16.2500","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J11","282836-2","TopLayer","TECO-282836-2_V","10.3358","20.7500","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J4","282836-2","TopLayer","TECO-282836-2_V","16.2500","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J19","282836-2","TopLayer","TECO-282836-2_V","10.3358","91.6458","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J15","282836-2","TopLayer","TECO-282836-2_V","54.2500","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J10","282836-2","TopLayer","TECO-282836-2_V","10.3358","31.7500","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J3","282836-2","TopLayer","TECO-282836-2_V","53.2500","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J45","282836-2","TopLayer","TECO-282836-2_V","151.2500","69.7500","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J37","282836-2","TopLayer","TECO-282836-2_V","27.3543","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J33","282836-2","TopLayer","TECO-282836-2_V","151.2500","55.0628","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J25","282836-2","TopLayer","TECO-282836-2_V","27.3543","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J44","282836-2","TopLayer","TECO-282836-2_V","38.4585","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J32","282836-2","TopLayer","TECO-282836-2_V","38.4585","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J18","282836-2","TopLayer","TECO-282836-2_V","10.3358","80.2500","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J14","282836-2","TopLayer","TECO-282836-2_V","90.7500","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J9","282836-2","TopLayer","TECO-282836-2_V","10.3358","42.8543","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J2","282836-2","TopLayer","TECO-282836-2_V","90.7500","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J43","282836-2","TopLayer","TECO-282836-2_V","151.2500","80.7500","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J36","282836-2","TopLayer","TECO-282836-2_V","65.3542","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J31","282836-2","TopLayer","TECO-282836-2_V","151.2500","43.9585","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J24","282836-2","TopLayer","TECO-282836-2_V","64.3543","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J42","282836-2","TopLayer","TECO-282836-2_V","76.4585","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J30","282836-2","TopLayer","TECO-282836-2_V","75.4585","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J17","282836-2","TopLayer","TECO-282836-2_V","10.3358","68.7500","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J13","282836-2","TopLayer","TECO-282836-2_V","127.2500","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J8","282836-2","TopLayer","TECO-282836-2_V","10.3358","53.9585","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J1","282836-2","TopLayer","TECO-282836-2_V","128.0458","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J41","282836-2","TopLayer","TECO-282836-2_V","151.2500","91.7500","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J35","282836-2","TopLayer","TECO-282836-2_V","101.8542","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J29","282836-2","TopLayer","TECO-282836-2_V","151.2500","32.8543","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J40","282836-2","TopLayer","TECO-282836-2_V","112.9585","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J28","282836-2","TopLayer","TECO-282836-2_V","112.9585","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J39","282836-2","TopLayer","TECO-282836-2_V","151.2500","102.7500","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J34","282836-2","TopLayer","TECO-282836-2_V","138.3543","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J27","282836-2","TopLayer","TECO-282836-2_V","151.2500","21.7500","90","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J22","282836-2","TopLayer","TECO-282836-2_V","139.1500","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J12","282836-2","TopLayer","TECO-282836-2_V","82.8500","84.1500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J7","282836-2","TopLayer","TECO-282836-2_V","40.8500","68.3542","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J6","282836-2","TopLayer","TECO-282836-2_V","40.7500","57.2500","270","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J5","282836-2","TopLayer","TECO-282836-2_V","71.1500","84.1500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J38","282836-2","TopLayer","TECO-282836-2_V","149.4585","116.7500","180","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"J26","282836-2","TopLayer","TECO-282836-2_V","150.2543","5.2500","0","Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk"
+"D8","ES2BA-13-F","TopLayer","FP-SMA-MFG","20.5000","105.2500","270","DIODE GEN PURP 100V 2A SMA"
+"D4","ES2BA-13-F","TopLayer","FP-SMA-MFG","18.7500","17.7500","90","DIODE GEN PURP 100V 2A SMA"
+"D7","ES2BA-13-F","TopLayer","FP-SMA-MFG","57.2500","105.2500","90","DIODE GEN PURP 100V 2A SMA"
+"D3","ES2BA-13-F","TopLayer","FP-SMA-MFG","50.7500","17.7500","90","DIODE GEN PURP 100V 2A SMA"
+"D6","ES2BA-13-F","TopLayer","FP-SMA-MFG","93.2500","105.2500","90","DIODE GEN PURP 100V 2A SMA"
+"D2","ES2BA-13-F","TopLayer","FP-SMA-MFG","87.7500","17.7500","90","DIODE GEN PURP 100V 2A SMA"
+"D5","ES2BA-13-F","TopLayer","FP-SMA-MFG","130.2500","105.0000","90","DIODE GEN PURP 100V 2A SMA"
+"D1","ES2BA-13-F","TopLayer","FP-SMA-MFG","125.2500","17.7500","90","DIODE GEN PURP 100V 2A SMA"

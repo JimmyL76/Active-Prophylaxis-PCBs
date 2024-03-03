@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\pisto\OneDrive - The University of Texas at Austin\00 - UT Austin\Orgs\Momentum\Altium\8-Solenoid-PCB\8-Solenoid-PCB.PcbDoc
-Date     : 2/29/2024
-Time     : 12:20:04 AM
+Date     : 3/2/2024
+Time     : 11:17:17 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -42,12 +42,14 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (106.354mm,78.25mm)(151.25mm,78.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (109.155mm,3.946mm)(110.459mm,5.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (109.155mm,3.946mm)(146.45mm,3.946mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (11.476mm,108.004mm)(12.23mm,107.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (11.569mm,50.5mm)(21.5mm,50.5mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (110.354mm,16.25mm)(130mm,16.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (112.104mm,13mm)(128.896mm,13mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (114.155mm,118.054mm)(115.459mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (115.459mm,116.75mm)(116.763mm,118.054mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (116.763mm,118.054mm)(150.655mm,118.054mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (12.23mm,107.25mm)(20.5mm,107.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (12.836mm,15.75mm)(13.75mm,15.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (124.75mm,112.9mm)(124.75mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (124.75mm,112.9mm)(130.25mm,107.4mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -74,7 +76,7 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (135.854mm,113.333mm)(150.241mm,98.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (136.303mm,46.459mm)(151.25mm,46.459mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (136.65mm,5.25mm)(150.1mm,18.7mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (14.086mm,25.5mm)(18.75mm,25.5mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (14.086mm,25.5mm)(20.25mm,25.5mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (140.854mm,110.646mm)(140.854mm,116.75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (140.854mm,110.646mm)(151.25mm,100.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (141.65mm,5.25mm)(152.554mm,16.154mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -113,29 +115,28 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (152.554mm,77.241mm)(152.554mm,81.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (152.554mm,88.241mm)(152.554mm,92.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (152.554mm,99.241mm)(152.554mm,103.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (16.25mm,105.75mm)(16.25mm,114.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (16.25mm,105.75mm)(17.15mm,105.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.25mm,105.5mm)(16.25mm,114.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.25mm,105.5mm)(17.5mm,104.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.586mm,84mm)(43.5mm,84mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,29.664mm)(16.75mm,40.664mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,40.664mm)(16.75mm,51.769mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,51.769mm)(16.75mm,59.75mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,59.75mm)(16.75mm,65.75mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (16.75mm,59.75mm)(40.75mm,59.75mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.75mm,59.75mm)(52.75mm,59.75mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,65.75mm)(16.75mm,76.5mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,76.5mm)(16.75mm,87.731mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (16.75mm,87.731mm)(16.75mm,98.836mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (17.15mm,105.75mm)(19.25mm,103.65mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (18.65mm,108.004mm)(19.25mm,107.404mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.5mm,104.25mm)(19.777mm,104.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (18.75mm,10.701mm)(20.104mm,12.055mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (18.75mm,116.75mm)(19.25mm,116.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.75mm,116.75mm)(20.5mm,115mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (18.75mm,19.35mm)(18.75mm,19.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (18.75mm,19.35mm)(20.104mm,17.996mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (18.75mm,25.5mm)(41mm,25.5mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (18.75mm,5.25mm)(18.75mm,10.701mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (19.25mm,103.25mm)(19.25mm,103.65mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (19.25mm,107.25mm)(19.25mm,107.404mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (19.25mm,107.404mm)(19.25mm,116.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (19.777mm,104.25mm)(20.5mm,103.527mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (20.104mm,12.055mm)(20.104mm,17.996mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.25mm,25.5mm)(41mm,25.5mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.5mm,103.25mm)(20.5mm,103.527mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.5mm,107.25mm)(20.5mm,115mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (21.177mm,40.427mm)(21.25mm,40.5mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (21.25mm,40.5mm)(41.825mm,40.5mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (21.5mm,50.5mm)(59.813mm,50.5mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -152,7 +153,6 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (36mm,23.25mm)(36mm,66.004mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (36mm,66.004mm)(40.85mm,70.854mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (37.263mm,3.946mm)(71.655mm,3.946mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (40.75mm,59.75mm)(49.25mm,59.75mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (40.85mm,70.854mm)(40.959mm,70.963mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (40.959mm,116.75mm)(42.263mm,118.054mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (40.959mm,70.963mm)(40.959mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -165,12 +165,12 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (43.5mm,89.25mm)(43.65mm,89.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (43.65mm,89.25mm)(57.25mm,102.85mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (43.75mm,80mm)(55.25mm,91.5mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (49.25mm,59.75mm)(73.65mm,84.15mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (50.75mm,19.35mm)(50.75mm,19.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (50.75mm,19.35mm)(55.75mm,14.35mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (50.75mm,5.25mm)(50.75mm,15.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (51.75mm,113.15mm)(51.75mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (51.75mm,113.15mm)(57.25mm,107.65mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52.75mm,59.75mm)(73.65mm,80.65mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (55.25mm,91.5mm)(84.313mm,91.5mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (55.75mm,5.25mm)(55.75mm,14.35mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (56.75mm,111.529mm)(56.75mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -195,6 +195,7 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (71.655mm,3.946mm)(109.155mm,3.946mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (71.655mm,3.946mm)(72.959mm,5.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (71.95mm,3.946mm)(93.79mm,3.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (73.65mm,80.65mm)(73.65mm,84.15mm) on Top Layer Actual Width = 4.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (77.655mm,118.054mm)(78.959mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (78.345mm,65.946mm)(152.259mm,65.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (78.471mm,58.867mm)(151.79mm,58.867mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -210,7 +211,7 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (88.25mm,112.65mm)(88.25mm,116.75mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (88.25mm,112.65mm)(93.25mm,107.65mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (88.25mm,5.25mm)(88.25mm,15.25mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
-   Violation between Width Constraint: Track (9.195mm,108.004mm)(18.65mm,108.004mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (9.195mm,108.004mm)(11.476mm,108.004mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (93.25mm,103.25mm)(93.25mm,103.65mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (93.25mm,103.65mm)(94.604mm,105.004mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (93.25mm,107.25mm)(93.25mm,107.65mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
@@ -223,7 +224,7 @@ Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254m
    Violation between Width Constraint: Track (95.813mm,103mm)(130.25mm,103mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (99.354mm,116.75mm)(128.158mm,87.946mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
    Violation between Width Constraint: Track (99.354mm,5.25mm)(110.354mm,16.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
-Rule Violations :207
+Rule Violations :208
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
@@ -242,14 +243,16 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad Free-14(18.75mm,25.5mm) on Multi-Layer And Text "J11" (15.6mm,24.738mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Arc (18.75mm,112mm) on Top Overlay And Text "D8" (17.85mm,110.094mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J6" (36.773mm,63.739mm) on Top Overlay And Track (36.75mm,63.354mm)(36.75mm,73.954mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (0.158mm < 0.254mm) Between Text "J6" (36.773mm,63.739mm) on Top Overlay And Track (36.75mm,63.354mm)(44.95mm,63.354mm) on Top Overlay Silk Text to Silk Clearance [0.158mm]
-Rule Violations :3
+   Violation between Silk To Silk Clearance Constraint: (0.187mm < 0.254mm) Between Arc (136.65mm,10mm) on Top Overlay And Text "Data1" (133.858mm,10.504mm) on Top Overlay Silk Text to Silk Clearance [0.187mm]
+   Violation between Silk To Silk Clearance Constraint: (0.187mm < 0.254mm) Between Arc (24.854mm,10mm) on Top Overlay And Text "Data4" (22.063mm,10.504mm) on Top Overlay Silk Text to Silk Clearance [0.187mm]
+   Violation between Silk To Silk Clearance Constraint: (0.187mm < 0.254mm) Between Arc (61.854mm,10mm) on Top Overlay And Text "Data3" (59.063mm,10.504mm) on Top Overlay Silk Text to Silk Clearance [0.187mm]
+   Violation between Silk To Silk Clearance Constraint: (0.103mm < 0.254mm) Between Arc (85.35mm,79.4mm) on Top Overlay And Text "ArdVcc" (78.308mm,77.904mm) on Top Overlay Silk Text to Silk Clearance [0.103mm]
+   Violation between Silk To Silk Clearance Constraint: (0.187mm < 0.254mm) Between Arc (88.25mm,10mm) on Top Overlay And Text "S2" (85.458mm,10.504mm) on Top Overlay Silk Text to Silk Clearance [0.187mm]
+   Violation between Silk To Silk Clearance Constraint: (0.187mm < 0.254mm) Between Arc (99.354mm,10mm) on Top Overlay And Text "Data2" (96.563mm,10.504mm) on Top Overlay Silk Text to Silk Clearance [0.187mm]
+Rule Violations :6
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -258,6 +261,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 215
+Violations Detected : 218
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
